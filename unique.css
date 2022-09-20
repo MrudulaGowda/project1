@@ -1,0 +1,192 @@
+.home_section{
+    background-image: url("homebg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: -4px;
+}
+.abt_body{
+    background-image: url("abt_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    border: 6px double #e1e0deb5;
+    padding: 10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+ul{
+    list-style: none;
+    margin-right: 250px;
+}
+li{
+    display: inline;
+    margin: 14px;
+    font-size: 19px;
+}
+a{
+    text-decoration: none;
+}
+.container{
+   display: flex; 
+   flex-direction:column-reverse;
+}
+.cont{
+    padding-top: 114px;
+}
+h3 i{
+    color:#243885;
+}
+.para{
+    width: 50%;
+    line-height: 1.8;
+    color: #006778;
+    font-size: 17px;
+    margin: 28px;
+    text-align: justify;
+}
+.column {
+    float: left;
+    width: 32.05%;
+    padding: 10px;
+    height: 300px; 
+    color: #ffffff91;
+    background-color:#8e001152;
+  }
+  .colmbg1{
+    background-color: #8e0011a6;
+    color: #ffffff91;
+  }
+
+  .para_abt {
+    line-height: 1.8;
+    font-size: 17px;
+    margin: 28px;
+    text-align: justify;
+  }
+.abt_colmn {
+    float: left;
+    width: 50%;
+  }
+ 
+element.style {
+}
+.abt_para {
+    background-color: #ffffff;
+    padding: 31px;
+    text-align: justify;
+    color: #cb001c;
+    font-size: 22px;
+    font-style: italic;
+    margin: 0px;
+}
+.img_sec {
+    padding: 17px;
+    display: inline-block;
+}
+.img_name {
+    display: block;
+    color: #7a0d18;
+    font-family: cursive;
+}
+.wcu{
+    text-align: center;
+}
+.home_call{
+background-color:#7a0d18b0;
+text-align: center;
+padding: 100px;
+color: white;
+}
+.home_btn{
+    padding: 15px;
+    background-color: white;
+    color: #7a0d18;
+    border: none;
+    font-size: 25px;
+}
+.projects{
+    float: left;
+    width: 33.33%;
+}
+.proj{
+    text-align: center;
+    color: #7a0d18;
+    font-size: 20px;
+}
+.img_size {
+    height: 350px;
+    width: 486px;
+    border-radius: 9px;
+    padding: 12px;
+}
+.container {
+    position: relative;
+  }
+  
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
+  .abt_page{
+      text-align: center;
+  }
+  .abt_second{
+    padding-top: 117px;
+    width: 37%;
+    padding-left: 57px;
+}
+.abt_conatct{
+    padding-top: 520px;
+    text-align: center;
+    font-size: 30px;
+}
+.abt_heading{
+    color: #0d1788;
+    border: 1px solid;
+    width: 300px;
+}
+
+.services{
+    text-align: center;
+}
+
+.serv_img{
+    height: 350px;
+    width: 486px;
+    border-radius: 9px;
+    padding: 12px;
+    display: inline-block;
+    border: 1px solid red;
+}
+.serv_name {
+    display: block;
+    color: #7a0d18;
+    font-family: cursive;
+}
+.button {
+    background-color: #5e0406;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.form{
+    width: 50%;
+    padding: 12px;
+    border: 1px solid #da1b36;
+    border-radius: 4px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+.margin{
+    margin-right: 10px;
+}
